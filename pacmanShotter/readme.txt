@@ -1,0 +1,5 @@
+To run this project you must have Eclipse IDE. You can simply use any kind of code editor for this project. This game is in 2D format. Also, you need to have the JDK and JRE installed in your computer to run it. This is a simple yet funny game.
+
+This is a simple Pacman shooting game in java. The gameplay is simple and easy for the users. All you have to do is just to use your mouse for shooting and ASWD key for directional movement and use the right click mouse button to fire the shot. You can use your mouse to decrease the speed of the shot. You can play this game in two formats, one versus the human player and the other as multi-player. The gameplay with the computer comes with various difficulties.
+
+Design of this is so simple that the user won’t find difficulties while working on it. This project is easy to operate and understood by the users. To run this project you must have installed Eclipse IDE or Netbeans IDE on your PC. This game in Java is free to download with source code. For the project demo, you can have a look at the video below
